@@ -1,0 +1,4 @@
+http-server
+*.o
+*.dSYM/
+.DS_Store
